@@ -1,0 +1,34 @@
+{
+  "name": "designer",
+  "version": "1.0.0",
+  "description": "A lib for managing design docs in couchDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prismatik/designer.git"
+  },
+  "keywords": [
+    "couchdb",
+    "couch",
+    "design",
+    "doc"
+  ],
+  "author": "david@banham.id.au",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prismatik/designer/issues"
+  },
+  "homepage": "https://github.com/Prismatik/designer",
+  "dependencies": {
+    "nano": "^6.1.5",
+    "request": "^2.60.0"
+  },
+  "devDependencies": {
+    "random-string": "^0.1.2",
+    "tap-spec": "^4.0.2",
+    "tape": "^4.0.2"
+  }
+}
