@@ -2,6 +2,8 @@
 
 ### How to:
 
+`npm install designer`
+
 ```
 var designer = require('designer');
 var docs = [
