@@ -1,4 +1,5 @@
 ## Designer
+[![Build Status](https://travis-ci.org/Prismatik/designer.svg?branch=master)](https://travis-ci.org/Prismatik/designer)
 
 ### How to:
 
